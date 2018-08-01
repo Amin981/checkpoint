@@ -1,1 +1,1 @@
-# checkpoint
+# checkpoint-bootstrap
